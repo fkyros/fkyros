@@ -1,7 +1,8 @@
 ### hi there! :D 👋 
 
 \>whoami
-- 🗿 intern software engineer @ Telefónica Innovación Digital
-- 🌱 currently learning computer science @ UPM && 42
-- 🔭 interested in BackEnd development, cibersecurity, DevOps and Site Reliability
+- 🗿 software engineer @ Telefónica Innovación Digital
+- 🎧 electronic music nerd & mario kart pro player
+- 🌱 computer science fresh grad @ UPM, but always learning @ 42Madrid
+- 🔭 interested in backend development, cibersecurity and software architecture
 - 🚀 looking forward to learn and contribute everyday
